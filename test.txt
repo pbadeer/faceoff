@@ -1,0 +1,69 @@
+PHOENIX (60d/40ar)
+All virtual users finished
+Summary report @ 21:48:28(-0600) 2019-02-05
+  Scenarios launched:  1200
+  Scenarios completed: 1200
+  Requests completed:  1200
+  RPS sent: 19.86
+  Request latency:
+    min: 10.3
+    max: 342.3
+    median: 13.8
+    p95: 20.9
+    p99: 88.7
+  Scenario counts:
+    0: 1200 (100%)
+  Codes:
+    200: 1200
+100d,30ar
+All virtual users finished
+Summary report @ 22:15:33(-0600) 2019-02-05
+  Scenarios launched:  3000
+  Scenarios completed: 3000
+  Requests completed:  3000
+  RPS sent: 29.87
+  Request latency:
+    min: 9.4
+    max: 291.4
+    median: 14.2
+    p95: 23.3
+    p99: 50
+  Scenario counts:
+    0: 3000 (100%)
+  Codes:
+    200: 3000
+
+DJANGO (60d/40ar)
+All virtual users finished
+Summary report @ 21:51:16(-0600) 2019-02-05
+  Scenarios launched:  1200
+  Scenarios completed: 1200
+  Requests completed:  1200
+  RPS sent: 19.87
+  Request latency:
+    min: 2.8
+    max: 82.3
+    median: 6.2
+    p95: 9.2
+    p99: 16.3
+  Scenario counts:
+    0: 1200 (100%)
+  Codes:
+    200: 1200
+100d,30ar
+All virtual users finished
+Summary report @ 22:10:59(-0600) 2019-02-05
+  Scenarios launched:  3000
+  Scenarios completed: 3000
+  Requests completed:  3000
+  RPS sent: 29.87
+  Request latency:
+    min: 4.8
+    max: 32.1
+    median: 6
+    p95: 8.2
+    p99: 10.2
+  Scenario counts:
+    0: 3000 (100%)
+  Codes:
+    200: 3000
